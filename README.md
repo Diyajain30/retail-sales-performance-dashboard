@@ -12,3 +12,14 @@ An end-to-end data analytics project analyzing 9,000+ retail transactions from t
 - \sql/\: DDL scripts, data audit checks, and KPI queries
 - \powerbi/\: Power BI report file (.pbix)
 - \images/\: Visual architecture and dashboard screenshots
+
+## 🖥️ Dashboard Views
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Product Deep Dive (Drill-Through)
+![Product Deep Dive](images/product_deep_dive.png)
+
+### Star Schema Data Model
+![Data Model](images/data_model.png)
